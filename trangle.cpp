@@ -1,5 +1,5 @@
 #include <iostream>
-#include <cmath> // для sqrt()
+#include <cmath> //для sqrt()
 
 
 using namespace std;
@@ -46,3 +46,4 @@ int main() {
 
     return 0;
 }
+
