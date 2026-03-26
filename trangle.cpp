@@ -2,7 +2,6 @@
 #include <cmath> //для sqrt()
 
 //комментарий для создания конфликта при слиянии
-//...
 
 using namespace std;
 
