@@ -1,9 +1,6 @@
 #include <iostream>
 #include <cmath> //для sqrt()
 
-
-
-
 using namespace std;
 
 // Проверка существования треугольника
